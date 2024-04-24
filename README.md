@@ -10,4 +10,4 @@ The app works with Czech language syntezis.
 
 ### window.speechSynthesis function
 
-Life preview:
+Life preview: https://text-na-slovo.netlify.app/
